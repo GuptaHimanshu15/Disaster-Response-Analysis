@@ -1,4 +1,31 @@
-# Disaster Response Pipeline Project
+# Disaster Response  Project
+
+ ### Libraries needed:
+
+Pandas
+Numpy
+Sci-kit Learn
+Flask
+SQL Alchemy
+Plotly
+NLTK
+
+
+### Files
+The project is divided into 3 folders: one for data and data processing; another one is for building a machine learning pipeline; and the third is for the web app.
+
+#### Files in the Data Folder
+Messages data: disaster_messages.csv
+Categories data: disaster_categories.csv
+SQL Database: DisasterResponse.db
+Python script for processing the data: process_data.py
+#### Files in the Models Folder
+
+Python script for training the classifier: train_classifier.py
+A pickle file that contains the trained model: classifier.pkl
+#### Files in the App Folder
+Python script for running the web app: run.py
+templates folder that contains 2 HTML files for the app front-end: go.html and master.html
 
 ### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
@@ -12,3 +39,6 @@
     `python run.py`
 
 3. Go to http://0.0.0.0:3001/
+### Screenshots
+
+
