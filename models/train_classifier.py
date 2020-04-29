@@ -41,7 +41,7 @@ def load_data(database_filepath):
 
 class StartingVerbExtractor(BaseEstimator, TransformerMixin):
     """
-    Fitting and tranformind the data
+    Fitting and transforming the data
     """
 
     def starting_verb(self, text):
