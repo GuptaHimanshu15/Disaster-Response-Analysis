@@ -41,9 +41,14 @@ templates folder that contains 2 HTML files for the app front-end: go.html and m
 3. Go to http://0.0.0.0:3001/
 ### Screenshots
 
-![Alt text](https://github.com/GuptaHimanshu15/Disaster-Response-Analysis/blob/master/Screenshot%20(130).png)
+
 
 ![Alt text](https://github.com/GuptaHimanshu15/Disaster-Response-Analysis/blob/master/Screenshot%20(129).png)
+
+
+![Alt text](https://github.com/GuptaHimanshu15/Disaster-Response-Analysis/blob/master/Screenshot%20(128).png)
+
+![Alt text](https://github.com/GuptaHimanshu15/Disaster-Response-Analysis/blob/master/Screenshot%20(127).png)
 
 
 
