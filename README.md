@@ -2,13 +2,13 @@
 
  ### Libraries needed:
 
-Pandas
-Numpy
-Sci-kit Learn
-Flask
-SQL Alchemy
-Plotly
-NLTK
+Pandas,
+Numpy,
+Sci-kit Learn,
+Flask,
+SQL Alchemy,
+Plotly,
+NLTK,
 
 
 ### Files
